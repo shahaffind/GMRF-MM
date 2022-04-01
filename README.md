@@ -1,5 +1,7 @@
 # GMRF-MM
 
+Repository for our paper [Effective Learning of a GMRF Mixture Model](https://ieeexplore.ieee.org/abstract/document/9676590)
+
 ```
 @article{finder2022effective,
   title={Effective Learning of a GMRF Mixture Model},
